@@ -1,0 +1,201 @@
+Age,Income,Education,CreditScore,Married,LoanAmount,LoanApproved
+59,69811,Graduate,361,No,172177,No
+49,22811,Graduate,641,Yes,353571,Yes
+35,76250,Graduate,696,No,209818,Yes
+28,92082,Not Graduate,318,Yes,172883,Yes
+41,54754,Not Graduate,476,No,268958,No
+59,115742,Not Graduate,695,No,288213,Yes
+39,31411,Graduate,744,No,443333,Yes
+43,22911,Not Graduate,532,Yes,437952,No
+31,87270,Not Graduate,375,No,162221,No
+31,103763,Not Graduate,564,No,325378,Yes
+44,28680,Not Graduate,754,Yes,310669,Yes
+56,104896,Graduate,683,No,284936,No
+44,103879,Graduate,805,Yes,365585,Yes
+23,91295,Not Graduate,666,No,50846,Yes
+42,108614,Graduate,443,Yes,60954,Yes
+22,31111,Graduate,368,Yes,391383,Yes
+44,57504,Not Graduate,398,No,294761,No
+50,21802,Not Graduate,695,Yes,358658,No
+58,28155,Graduate,324,Yes,400380,Yes
+22,93656,Not Graduate,768,Yes,409723,Yes
+41,59384,Graduate,783,Yes,187541,Yes
+53,67254,Not Graduate,450,Yes,473321,Yes
+32,41918,Graduate,443,Yes,354245,No
+42,105981,Not Graduate,338,No,114323,Yes
+45,80713,Graduate,408,Yes,141922,Yes
+47,50306,Graduate,341,Yes,239139,Yes
+48,36646,Graduate,485,No,230448,Yes
+36,66843,Not Graduate,697,No,226659,Yes
+35,116601,Graduate,522,No,480192,No
+23,110735,Graduate,432,No,285659,Yes
+57,36371,Not Graduate,462,No,439678,No
+27,97371,Not Graduate,514,No,379728,Yes
+41,22049,Graduate,534,No,154537,Yes
+29,51616,Graduate,308,Yes,390621,Yes
+59,40932,Not Graduate,373,Yes,291983,No
+38,49855,Not Graduate,791,No,92533,No
+24,81434,Not Graduate,552,Yes,313972,Yes
+45,92694,Not Graduate,529,Yes,51917,Yes
+34,63016,Not Graduate,818,Yes,332762,No
+29,27400,Graduate,473,No,82254,Yes
+46,62642,Not Graduate,467,No,311987,Yes
+22,35151,Graduate,469,Yes,417436,No
+40,71407,Graduate,692,No,97362,Yes
+48,86690,Graduate,493,Yes,332272,Yes
+27,24499,Not Graduate,816,Yes,435925,Yes
+28,26295,Graduate,328,Yes,292353,Yes
+55,79040,Graduate,464,Yes,240455,Yes
+34,32183,Not Graduate,721,No,115545,No
+37,49299,Graduate,638,No,132180,Yes
+56,32874,Graduate,795,No,137958,Yes
+24,52711,Not Graduate,664,Yes,453081,Yes
+22,25539,Graduate,641,No,445435,Yes
+26,73351,Graduate,799,Yes,351953,No
+24,81267,Graduate,810,No,428892,Yes
+49,68354,Not Graduate,626,Yes,55287,Yes
+38,22557,Not Graduate,516,Yes,307665,No
+46,58360,Not Graduate,600,Yes,477603,Yes
+54,102018,Graduate,431,No,58512,Yes
+30,22200,Graduate,369,No,182414,Yes
+56,88497,Not Graduate,551,No,158872,Yes
+34,66975,Graduate,714,No,462432,Yes
+51,41357,Graduate,744,Yes,297754,Yes
+35,97505,Not Graduate,481,No,143070,No
+28,22869,Not Graduate,466,No,129767,Yes
+34,81135,Graduate,390,Yes,147829,Yes
+43,70108,Graduate,830,Yes,469830,Yes
+41,114179,Graduate,338,Yes,479474,Yes
+36,110272,Not Graduate,425,No,92078,No
+38,58467,Not Graduate,750,Yes,418432,Yes
+44,43328,Not Graduate,472,Yes,133524,Yes
+46,111412,Not Graduate,519,Yes,277645,No
+45,106831,Graduate,357,No,62219,Yes
+49,23987,Not Graduate,775,Yes,312379,Yes
+35,78871,Not Graduate,755,No,355073,Yes
+21,42399,Not Graduate,660,No,177309,Yes
+45,66214,Not Graduate,300,Yes,379588,No
+27,119522,Not Graduate,686,Yes,189639,Yes
+29,106416,Graduate,647,No,413978,Yes
+44,90271,Graduate,489,Yes,246513,Yes
+21,64064,Not Graduate,804,Yes,396699,No
+28,90091,Graduate,490,No,385842,Yes
+44,60818,Not Graduate,807,No,436594,No
+31,65525,Not Graduate,668,Yes,298320,Yes
+37,39830,Graduate,708,No,186487,No
+28,37429,Graduate,416,Yes,217231,No
+55,26893,Not Graduate,433,Yes,93925,No
+55,99909,Not Graduate,357,Yes,187023,No
+53,67333,Not Graduate,472,No,137388,Yes
+25,23436,Graduate,448,Yes,58007,Yes
+59,94290,Not Graduate,379,Yes,307802,Yes
+48,96213,Not Graduate,512,Yes,485048,Yes
+27,25895,Not Graduate,502,No,108596,Yes
+29,39738,Graduate,528,No,433245,Yes
+28,50746,Not Graduate,526,No,473739,Yes
+32,69377,Not Graduate,831,No,401005,Yes
+54,68404,Graduate,740,No,305266,No
+53,74045,Not Graduate,701,Yes,398884,Yes
+43,117888,Not Graduate,346,No,65524,No
+44,59790,Graduate,532,No,462498,No
+57,25600,Not Graduate,604,No,205002,No
+55,114660,Graduate,825,Yes,443293,Yes
+42,113179,Graduate,442,No,175501,No
+47,60764,Not Graduate,714,No,332755,No
+55,94543,Not Graduate,812,Yes,198056,No
+21,65714,Not Graduate,672,No,64060,Yes
+55,76835,Not Graduate,558,Yes,264057,Yes
+57,93744,Graduate,770,Yes,355447,Yes
+34,76491,Not Graduate,311,Yes,240279,Yes
+23,38589,Graduate,629,Yes,256118,Yes
+21,63484,Not Graduate,657,Yes,210359,No
+25,102989,Not Graduate,707,No,89711,No
+46,56212,Not Graduate,672,Yes,193026,Yes
+34,63525,Graduate,307,Yes,385484,No
+59,67202,Not Graduate,421,No,268134,Yes
+47,52635,Not Graduate,647,Yes,152974,No
+29,83208,Not Graduate,389,No,199646,No
+35,53828,Not Graduate,615,No,452400,Yes
+35,38711,Graduate,477,No,200168,Yes
+46,23420,Not Graduate,839,Yes,117728,No
+33,116752,Graduate,340,Yes,215088,Yes
+52,20301,Graduate,801,Yes,61246,Yes
+59,65236,Graduate,444,No,488774,No
+52,86235,Graduate,500,Yes,461597,Yes
+24,74240,Graduate,760,Yes,439940,No
+50,85726,Graduate,846,Yes,479671,Yes
+57,30492,Not Graduate,552,No,142263,No
+43,26102,Graduate,689,No,447234,Yes
+59,70336,Graduate,555,Yes,61302,No
+35,105314,Graduate,749,Yes,379650,No
+49,46641,Not Graduate,309,Yes,91157,Yes
+56,54584,Not Graduate,541,Yes,104917,Yes
+33,52745,Graduate,550,No,273810,No
+52,43093,Not Graduate,304,No,146646,Yes
+27,86105,Graduate,418,No,395266,Yes
+42,71885,Graduate,673,No,336663,Yes
+48,56631,Not Graduate,364,Yes,393054,Yes
+22,92991,Graduate,445,Yes,432574,No
+26,24014,Not Graduate,523,Yes,383468,Yes
+48,31093,Not Graduate,538,No,317552,Yes
+48,38070,Graduate,476,Yes,109379,Yes
+40,55777,Graduate,581,No,75053,Yes
+50,76958,Not Graduate,362,No,452662,Yes
+31,102074,Graduate,516,Yes,181994,Yes
+48,30729,Graduate,760,Yes,148723,No
+45,119713,Graduate,404,Yes,101356,Yes
+59,65017,Not Graduate,398,No,322933,Yes
+53,86320,Not Graduate,810,Yes,409864,No
+21,47751,Graduate,684,No,378800,Yes
+47,98069,Not Graduate,704,Yes,356172,No
+33,74748,Not Graduate,817,No,376628,Yes
+23,25801,Not Graduate,775,No,82154,Yes
+59,39190,Not Graduate,736,Yes,263942,Yes
+26,69689,Not Graduate,322,No,314480,Yes
+28,70993,Graduate,757,No,415821,No
+47,49592,Graduate,382,Yes,379923,Yes
+29,30647,Graduate,444,No,331173,Yes
+57,28716,Not Graduate,384,Yes,371345,Yes
+53,108891,Not Graduate,377,No,82265,Yes
+44,107545,Graduate,756,Yes,415060,No
+35,109912,Not Graduate,300,Yes,293322,Yes
+52,90316,Graduate,350,No,224944,Yes
+52,22368,Graduate,745,No,96197,Yes
+44,97575,Graduate,748,No,437877,Yes
+32,26655,Not Graduate,787,No,498396,No
+59,90031,Not Graduate,333,No,204782,Yes
+22,96429,Graduate,647,Yes,210558,No
+23,111083,Graduate,394,No,121907,Yes
+57,107922,Graduate,371,Yes,441020,Yes
+37,75766,Graduate,453,Yes,252967,No
+22,33403,Not Graduate,549,No,376579,Yes
+22,52097,Not Graduate,737,Yes,352775,Yes
+48,98657,Graduate,417,Yes,441182,No
+43,30966,Graduate,605,Yes,282604,Yes
+57,119157,Not Graduate,567,Yes,332247,No
+52,113848,Not Graduate,353,No,114772,Yes
+53,72921,Graduate,535,Yes,176108,No
+21,69726,Graduate,688,No,64382,No
+39,70300,Graduate,700,No,134291,Yes
+22,42677,Not Graduate,602,Yes,413339,No
+46,75609,Not Graduate,506,No,184828,Yes
+52,116825,Not Graduate,528,No,332753,No
+26,76661,Graduate,374,No,197550,Yes
+52,51024,Graduate,734,Yes,282050,Yes
+24,90313,Not Graduate,402,No,482882,Yes
+31,73006,Not Graduate,721,No,387827,Yes
+37,115285,Graduate,605,No,436858,Yes
+58,35338,Not Graduate,397,Yes,180330,No
+44,88027,Not Graduate,634,No,121315,No
+25,112772,Graduate,734,Yes,389978,No
+54,100135,Not Graduate,746,Yes,438349,Yes
+26,39508,Graduate,607,Yes,64153,Yes
+42,23051,Graduate,548,Yes,126325,Yes
+31,68747,Graduate,465,Yes,290773,Yes
+36,107142,Graduate,780,Yes,456215,Yes
+53,107235,Graduate,634,No,105318,Yes
+29,74021,Graduate,841,Yes,444030,No
+26,86412,Graduate,405,No,427177,Yes
+36,78335,Not Graduate,380,No,126077,Yes
+49,76179,Graduate,432,Yes,402618,Yes
+23,52093,Graduate,437,No,183515,Yes
